@@ -1,0 +1,3 @@
+today is wed
+month is dec
+year is 2020
